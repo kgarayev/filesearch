@@ -1,5 +1,10 @@
 # :file_folder: File Search Script
 
+## :computer: Tech Used
+
+- Programming Languages: Python
+- Version Control: Git
+
 ## :page_facing_up: Overview
 
 The File Search Script is a Python script that allows you to search a specified folder and its subfolders, up to two levels deep, to compile a list of all `.jpg` files contained within. The script utilizes `for` loops, conditional statements, and the `pathlib` module to efficiently traverse the folder structure and extract the desired files.
