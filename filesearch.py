@@ -35,6 +35,7 @@ def choose_path():
     while True:
         if answer == 'N':
             print('\nThe current directory path is used as a default.')
+            print("default selected")
             path = Path.cwd()
             break
         elif answer == 'Y':
